@@ -4,10 +4,32 @@
 
 .skills__card {
     background: linear-gradient(95deg, #8338ec 0%, #9c2ef5 100%);
-    max-width: 1376px;
+    max-width: 688px;
     margin: 0 auto;
+    border-radius: 20px;
+    width: 688px;
+    height: 345px;
+    padding: 36px 172px 36px 36px;
+    font-size: 14px;
+    margin-top: 50px;
+   
+}
+h2{
+    padding: 36px 36px 36px;
+    font-size: 32px;
+}
+
+.card-element{
+    border: 3px solid white;
+    display: flex;
+    padding: 0 36px;
+    gap: 10px;
 }
 
 .skills__card--two {
     background: linear-gradient(95deg, #9e2df6 0%, #b923ff 100%);
+}
+.case_study{
+    display: flex;
+    
 }
