@@ -1,0 +1,22 @@
+.btn {
+    display: flex;
+    gap: 10px;
+    padding: 10px 14px;
+    border: 1px solid var(--lavender-mist);
+    border-radius: 19px;
+    align-items: center;
+    transition: color .4s, background-color .4s;
+    max-width: 126px;
+}
+
+/* 
+} 
+    .btn--light{
+    background-color: var(--lavender-mist);
+    color: var(--deep-void);
+
+    &:hover{
+        background-color: var(--deep-void);
+        color: var(--lavender-mist);
+    }
+} */

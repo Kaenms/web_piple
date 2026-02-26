@@ -1,0 +1,44 @@
+.home__inner {
+    padding: 82px 40px 40px;
+    background-color: var(--royal-night);
+    max-width: 1400px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.home__title {
+    font-family: 'Montserrat Regular';
+    font-weight: 500;
+    font-size: 100px;
+    line-height: 100%;
+    color: var(--lavender-mist);
+    margin-bottom: 24px;
+}
+
+.home__title--italic {
+    font-family: 'Georgia Italic';
+    background: linear-gradient(90deg, #8338ec 0%, #b923ff 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.home__text {
+    font-family: 'Montserrat Regular';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 120%;
+    color: var(--lavender-mist);
+    margin-bottom: 60px;
+}
+
+.home__footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.home__subtext {
+    font-size: 14px;
+    line-height: 160%;
+}

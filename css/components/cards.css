@@ -1,0 +1,13 @@
+.skills {
+    display: flex;
+}
+
+.skills__card {
+    background: linear-gradient(95deg, #8338ec 0%, #9c2ef5 100%);
+    max-width: 1376px;
+    margin: 0 auto;
+}
+
+.skills__card--two {
+    background: linear-gradient(95deg, #9e2df6 0%, #b923ff 100%);
+}

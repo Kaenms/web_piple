@@ -1,0 +1,33 @@
+.header {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.header__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    padding: 20px 36px;
+    background-color: var(--royal-night);
+    border-radius: 20px;
+}
+
+.header-text {
+    display: flex;
+    list-style: none;
+}
+
+.header-link {
+    padding: 12px;
+}
+
+.svg_arrow {
+    stroke-width: 1px;
+    stroke: var(--lavender-mist);
+}
+
+a {
+    color: var(--lavander-mist);
+    text-decoration: none;
+}
