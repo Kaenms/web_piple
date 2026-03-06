@@ -1,18 +1,17 @@
-/* базовые стили */
+
 @import 'basic/reset.css';
 @import 'basic/fonts.css';
 @import 'basic/vars.css';
 @import 'basic/global.css';
 
-/* компоненты */
+
 @import 'components/btn.css';
 @import 'components/header.css';
 @import 'components/footer.css';
 @import 'components/cards.css';
 
-/* домашняя страница */
+
 @import 'home/hero.css';
 @import 'home/about.css';
 @import 'home/skills.css';
 
-/*ku*/
